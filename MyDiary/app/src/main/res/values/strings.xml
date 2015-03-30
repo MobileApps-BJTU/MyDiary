@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="go">Go</string>
+    <string name="about_us">About Us</string>
+    <string name="back">Back</string>
+    <string name="about_us_title">This is our team production,our team have 4 peoples.</string>
+    <string name="my_diary">My Diary</string>
+    <string name="write_diary">Write Diary</string>
+    <string name="settings">Settings</string>
+    <string name="str_text1">Time</string>
+
+    <string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
+    <string-array name="dialog_items">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string name="cancel">Cancel</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_call_by_tab">CallByTabActivity</string>
+    <string name="title_activity_my_diary">MyDiaryActivity</string>
+    <string name="title_activity_write_diary">WriteDiaryActivity</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="title_activity_content">ContentActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+    <string name="SetTime">Set Time</string>
+    <string name="Write_Diary">Write Diary</string>
+    <string name="Weather">Weather</string>
+    <string name="Save">Save</string>
+    <string name="Empty">Empty</string>
+    <string name="Background_music">Background music</string>
+    <string name="Close_music">Close music</string>
+    <string name="Set">Set</string>
+    <string name="Change_Password">Change Password</string>
+    <string name="Make_sure">Make sure</string>
+    <string name="Set_alarmclock">Set alarmclock</string>
+    <string name="default_Password">Default Password 123</string>
+    <string name="Edit_diary">Edit diary</string>
+    <string name="go_back">go back</string>
+    <string name="heart_mark">hear tmark</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit_sucess">EditSucessActivity</string>
+</resources>
