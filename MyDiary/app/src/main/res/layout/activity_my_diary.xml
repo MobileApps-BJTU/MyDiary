@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:id="@+id/tv_mytitle"
+        android:background="@drawable/fl_top_title_bg"
+        />
+    <FrameLayout
+        android:id="@+id/fragment_holder"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_gravity="fill"
+        android:background="@android:color/holo_blue_bright"
+        android:orientation="vertical"
+        android:layout_below="@+id/tv_mytitle"
+        android:layout_alignParentBottom="true">
+
+
+        </FrameLayout>
+
+
+
+</RelativeLayout>
